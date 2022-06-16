@@ -1,3 +1,2 @@
 
 # SNGAN
-# Getting started
